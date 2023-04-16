@@ -6,7 +6,7 @@ rolls, where players roll and count the number of successes as opposed
 to totaling the dice and comparing the result against a target number. 
 
 **Target Successes (TS)**: This is the minimum number of successes 
-(rolling 4 or higher on a D6) you you need to achieve in order to 
+(rolling 4 or higher on a D6) you need to achieve in order to 
 succeed at whatever you are attempting. Target Successes function 
 under the Legend System similarly to the way Target Numbers work 
 under traditional OpenD6.
