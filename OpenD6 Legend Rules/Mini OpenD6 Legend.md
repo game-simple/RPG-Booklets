@@ -1,8 +1,8 @@
 Mini OpenD6 Legend Rules
 ========================
 
-These are rules for atapting OpenD6 style games to Legend style dice 
-rolls where players roll and count the number of successes as opposed 
+These are rules for adapting OpenD6 style games to Legend style dice 
+rolls, where players roll and count the number of successes as opposed 
 to totaling the dice and comparing the result against a target number. 
 
 **Target Successes (TS)**: This is the minimum number of successes 
@@ -11,7 +11,7 @@ succeed at whatever you are attempting. Target Successes function
 under the Legend System similarly to the way Target Numbers work 
 under traditional OpenD6.
 
-To convert betwwen Target Numbers (TN) and Target Success (TS), 
+To convert between Target Numbers (TN) and Target Success (TS), 
 divide the TN by 7, rounding up or down as you see fit.
 
 
