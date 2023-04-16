@@ -417,13 +417,13 @@ Throw, Skill Check, or Spell DC.
 
 Example Bonus Feats:
 
-• Because I am a smooth talker, I get a bonus equal to my level when I
+* Because I am a smooth talker, I get a bonus equal to my level when I
   am trying to convince someone to help me when I'm in conversation with
-  someone who is does not actively view me unfavorably.
-• Because I am a famous duelist, I get a bonus equal to my level when I
+  someone who is does not actively view me unfavorably. 
+* Because I am a famous duelist, I get a bonus equal to my level when I
   attack when engaged in a one- on-one swordfight with an attentive
   audience.
-• Because I am an expert on lycanthropes, I get a damage bonus equal to
+* Because I am an expert on lycanthropes, I get a damage bonus equal to
   my level when I attack a lycanthrope.
 
 ### Special Ability Feats ###
