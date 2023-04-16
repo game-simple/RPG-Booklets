@@ -33,7 +33,7 @@ Combat
 ------
 
 For damage, you can just total up the damage values as in traditional 
-OpenD6, or you can let each damage success that is not soaked equals 
+OpenD6, or you can let each damage success that is not soaked equal 
 one damage level taken.
 
 
