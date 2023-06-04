@@ -12,7 +12,7 @@ under the Legend System similarly to the way Target Numbers work
 under traditional OpenD6.
 
 To convert between Target Numbers (TN) and Target Success (TS), 
-divide the TN by 7, rounding up or down as you see fit.
+divide the TN by 6, rounding to the nearest number.
 
 
 Dice Basics
